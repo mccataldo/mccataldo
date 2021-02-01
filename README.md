@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/mccataldo" target="blank"><img src="https://img.shields.io/twitter/follow/mccataldo?logo=twitter&style=for-the-badge" alt="mccataldo" /></a> </p>
 
-- 💬 Ask me about **Cypress, JavaScript**
-
-- 📫 How to reach me **info@iheartjs.dev**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
